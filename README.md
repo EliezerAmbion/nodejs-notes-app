@@ -1,3 +1,3 @@
-# node-cnauvp
+write in the terminal
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-cnauvp)
+node app.js add --title="your title" --body="the content"
